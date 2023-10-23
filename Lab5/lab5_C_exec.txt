@@ -1,0 +1,14 @@
+1.1) ไม่ทำงาาน
+1.2) 1 ครั้ง
+
+2.1) ทำงาน
+2.2) 1 ครั้ง
+2.3) ใส่ exit(0) หลัง /*A*/
+2.4) นำ wait(NULL); มาใส่ไว้หน้า printf("can you see this1?\n");
+
+3.1) /bin/ls
+3.2) /usr/bin/whoami
+3.3) /bin/ps
+3.4) type is a shell builtin
+3.5) cd is a shell builtin
+3.6) ไม่ได้

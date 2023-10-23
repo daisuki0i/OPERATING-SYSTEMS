@@ -1,0 +1,21 @@
+./q2)   
+Data in memory: 
+from handler 
+Writing to memory: os kmitl
+
+./q4& และ ./q3)
+[1] 13148
+
+successfully obtain ppid
+ppid = 13173, Btw SIGUSR1 = 30
+waiting for SIG before writing to server
+Clnt write to mem & notify: os kmitl
+
+from handler from handler From child: os kmitl
+
+[1]  + done       ./Lab8c_shmb4Serv
+
+/*Q5.1*/) - b
+/*Q5.2*/) - (int *)
+/*Q5.3*/) - count[0] = temp;
+/*Q5.4*/) - final answer is 6

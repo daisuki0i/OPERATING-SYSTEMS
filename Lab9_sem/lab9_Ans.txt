@@ -1,0 +1,10 @@
+ข้อ 1
+1.1 : exitCriticalSection(0); 
+1.2 : exitCriticalSection(1); 
+
+ข้อ 2
+2.1 : sem_wait(&mySemaphore);
+2.2 : sem_init(&mySemaphore, 0, 1); 
+2.3 : thr 6170505216 exits. lastSeen = 199864
+        Last cnt from tid[0] is 199864
+        final cnt = 199997
